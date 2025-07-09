@@ -14,9 +14,6 @@ Aamdanom ni: GIG Cymru yw Gwasanaeth Iechyd Gwladol Cymru a ariennir yn gyhoeddu
 
 About us: NHS Wales is the publicly funded National Health Service of Wales which provides healthcare to approximately 3 million people living in the country.
 
-Gwybodaeth gyhoeddus: Mae'r sefydliad GitHub hwn yn cynnwys yr holl wybodaeth gyhoeddus. Nid oes unrhyw wybodaeth breifat.
-
-Public information: This GitHub organization contains all public information. There is no private information.
 
 ## GIG Cymru - NHS Wales - Organizations
 
