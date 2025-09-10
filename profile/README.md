@@ -18,7 +18,28 @@ About us: NHS Wales is the publicly funded National Health Service of Wales whic
 
 Welcome to GitHub GIG Cymru – the home of collaborative coding and digital innovation across NHS Wales.
 
-This organisation provides a secure, central space where teams can share, develop, and manage code and technical resources for digital health and care services in Wales. It is part of our mission to enable open, efficient, and modern ways of working within the NHS.
+This service provides a secure, central space where teams can share, develop, and manage code and technical resources for digital health and care services in Wales. It is part of our mission to enable open, efficient, and modern ways of working within the NHS.
+
+The following GitHub organisations are part of this service to enable cross organisational collaboration throughout NHS Wales:
+* [Analytics Learning Programme](https://github.com/Analytics-Learning-Programme)
+* [Aneurin Bevan University Health Board](https://github.com/Aneurin-Bevan-University-Health-Board)
+* [Cardiff and Vale University Health Board](https://github.com/Cardiff-Vale-University-Health-Board)
+* [Cwm Taf Morgannwg University Health Board](https://github.com/Cwm-Taf-Morgannwg-UHB)
+* [Digital Health and Care Wales](https://github.com/DHCW-Digital-Health-and-Care-Wales)
+* [GIG Cymru](https://github.com/GIGCymru)
+* [Hywel Dda University Health Board](https://github.com/HDUHB-Hywel-Dda-University-Health-Board)
+* [NHS Executive](https://github.com/NHS-Executive)
+* [Powys Teaching Health Board](https://github.com/Powys-Teaching-Health-Board)
+* [Swansea Bay University Health Board](https://github.com/Swansea-Bay-University-Health-Board)
+* [Advanced Analytics NHS Wales](https://github.com/Advanced-Analytics-NHS-Wales)
+* [Betsi Cadwaladr University Health Board](https://github.com/Betsi-Cadwaladr-University-Health-Board)
+* [Genomics Partnership Wales](https://github.com/Genomics-Partnership-Wales)
+* [National Data Resource](https://github.com/National-Data-Resource)
+* [Velindre University NHS Trust](https://github.com/Velindre-University-NHS-Trust)
+* [Welsh Ambulance Services NHS Trust](https://github.com/Welsh-Ambulance-Services-NHS-Trust)
+* [NDR National Data Analytics Platform](https://github.com/NDR-National-Data-Analytics-Platform)
+* [CI ARM](https://github.com/CI-ARM)
+* [NHS Wales Shared Services Partnership](https://github.com/NHS-Wales-Shared-Services-Partnership)
 
 ### 🌍 What is GitHub GIG Cymru?
 
@@ -50,7 +71,7 @@ Inside this organisation you'll find:
 3. Explore existing projects or start your own repository.
 4. Contribute through issues, discussions, and pull requests.
 
-👉 Check out the **Guides** (link to your guides repo/wiki) for detailed onboarding instructions.
+👉 Check out the **Guides** (https://github.com/GIGCymru/GitHub-GIG-Cymru/wiki) for detailed onboarding instructions.
 
 ### 🔒 Governance and security
 
@@ -62,13 +83,12 @@ Inside this organisation you'll find:
 
 For support, please:
 
-* Raise issues in the **Service Guides repository** (link to repo).
 * Contact your organisation's IT helpdesk.
-* For national service queries, email [insert central contact email].
+* For national service queries, email ndr@wales.nhs.uk.
 
 ### 🌱 Our vision
 
-GitHub GIG Cymru is more than just a code repository. It's about building a culture of collaboration across NHS Wales – empowering staff to share, learn, and innovate together to deliver better digital health and care services.
+GitHub GIG Cymru is more than just a service. It's about building a culture of collaboration across NHS Wales – empowering staff to share, learn, and innovate together to deliver better digital health and care services.
 
 ## GIG Cymru - NHS Wales - Organizations
 
