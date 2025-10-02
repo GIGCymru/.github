@@ -27,7 +27,7 @@ The following GitHub organisations are part of this service to enable cross orga
 * [Cwm Taf Morgannwg University Health Board](https://github.com/Cwm-Taf-Morgannwg-UHB)
 * [Digital Health and Care Wales](https://github.com/DHCW-Digital-Health-and-Care-Wales)
 * [GIG Cymru](https://github.com/GIGCymru)
-* [Hywel Dda University Health Board](https://github.com/HDUHB-Hywel-Dda-University-Health-Board)
+* [Hywel Dda University Health Board](https://github.com/Hywel-Dda-UHB)
 * [NHS Executive](https://github.com/NHS-Executive)
 * [Powys Teaching Health Board](https://github.com/Powys-Teaching-Health-Board)
 * [Swansea Bay University Health Board](https://github.com/Swansea-Bay-University-Health-Board)
