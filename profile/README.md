@@ -38,7 +38,7 @@ The following GitHub organisations are part of this service to enable cross orga
 * [Velindre University NHS Trust](https://github.com/Velindre-University-NHS-Trust)
 * [Welsh Ambulance Services NHS Trust](https://github.com/Welsh-Ambulance-Services-NHS-Trust)
 * [NDR National Data Analytics Platform](https://github.com/NDR-National-Data-Analytics-Platform)
-* [CI ARM](https://github.com/CI-ARM)
+* [DHCW Cloud Engineering](https://github.com/DHCW-Cloud-Engineering)
 * [NHS Wales Shared Services Partnership](https://github.com/NHS-Wales-Shared-Services-Partnership)
 
 ### 🌍 What is GitHub GIG Cymru?
@@ -125,5 +125,5 @@ GitHub GIG Cymru is more than just a service. It's about building a culture of c
 * [Velindre University NHS Trust](https://github.com/Velindre-University-NHS-Trust)
 * [Welsh Ambulance Services NHS Trust](https://github.com/Welsh-Ambulance-Services-NHS-Trust)
 * [NDR National Data Analytics Platform](https://github.com/NDR-National-Data-Analytics-Platform)
-* [CI ARM](https://github.com/CI-ARM)
+* [DHCW Cloud Engineering](https://github.com/DHCW-Cloud-Engineering)
 * [NHS Wales Shared Services Partnership](https://github.com/NHS-Wales-Shared-Services-Partnership)
