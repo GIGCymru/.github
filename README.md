@@ -1,4 +1,4 @@
-<img src="gig-cymru-nhs-wales.jpg" alt="GIG Cymru - NHS Wales">
+<img src="profile/gig-cymru-nhs-wales.jpg" alt="GIG Cymru - NHS Wales">
 
 # GIG Cymru - NHS Wales
 
@@ -10,7 +10,7 @@ Wicipedia: https://cy.wikipedia.org/wiki/GIG_Cymru
 
 Wikipedia: https://en.wikipedia.org/wiki/NHS_Wales
 
-Aamdanom ni: GIG Cymru yw Gwasanaeth Iechyd Gwladol Cymru a ariennir yn gyhoeddus ac sy'n darparu gofal iechyd i oddeutu 3 miliwn o bobl sy'n byw yn y wlad. 
+Amdanom ni: GIG Cymru yw Gwasanaeth Iechyd Gwladol Cymru a ariennir yn gyhoeddus ac sy'n darparu gofal iechyd i oddeutu 3 miliwn o bobl sy'n byw yn y wlad.
 
 About us: NHS Wales is the publicly funded National Health Service of Wales which provides healthcare to approximately 3 million people living in the country.
 
